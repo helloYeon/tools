@@ -10,7 +10,7 @@
 
 ## 設定方法
 > 下記のように設定
-```bash
+```bash:dump_sakura_db.sh
 # set ssh info
 SSH_HOST=hogehoge.sakura.ne.jp #サーバーネーム
 SSH_USER=hogehoge　　　　　　　　#サクラレンタルサーバーユーザID

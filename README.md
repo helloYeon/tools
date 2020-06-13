@@ -9,8 +9,8 @@
 以上
 
 ## 設定方法
-> 下記のように設定
-```bash:dump_sakura_db.sh
+> 下記のように設定 **dump_sakura_db.sh**ファイルを編集
+```bash:
 # set ssh info
 SSH_HOST=hogehoge.sakura.ne.jp #サーバーネーム
 SSH_USER=hogehoge　　　　　　　　#サクラレンタルサーバーユーザID
